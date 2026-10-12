@@ -36,6 +36,10 @@ This project analyzes solar power generation data from two solar plants to under
 ## Key Findings
 Plant 1 recorded a higher average and maximum DC power value than Plant 2 in the analyzed data. However, these values alone do not establish which plant is more efficient.
 
+## Dataset
+Source: [Solar Power Generation Dataset - Kaggle](https://www.kaggle.com/datasets/anikannal/solar-power-generation-data)
+
+
 ##  Author
-Aswathi
+Aswathi A
 
